@@ -7,7 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <?php?>
-        echo "Boa Tarde a Todos"
+    <?php
+    echo "<p>Boa tarde a todos</p>"
+    ?>
 </body>
 </html>
